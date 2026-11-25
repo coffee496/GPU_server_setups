@@ -78,6 +78,7 @@ GPU_server_setups/
 
 ## References
 
+- [Google Classroom（クラスページ）](https://classroom.google.com/c/NjkwMjQ2MDQ5ODEx)
 - [Google Classroom（GPUサーバ関連資料）](https://classroom.google.com/w/NjkwMjQ2MDQ5ODEx/t/all)
 
 本ツールは「GPUサーバの使い方 入門編 第1.06版」に基づいて作成しています．
