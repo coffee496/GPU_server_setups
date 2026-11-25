@@ -14,3 +14,4 @@ All notable changes to this project will be documented in this file.
 - Protection against overwriting existing virtual environments.
 - LF line ending configuration for shell scripts.
 - README and CHANGELOG documentation.
+- Google Classroom reference links in README.
